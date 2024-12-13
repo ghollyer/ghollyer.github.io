@@ -1,7 +1,7 @@
 ---
 title: "Driving macro-scale transformations in three-dimensional-printed biopolymers through controlled induction of molecular anisotropy at the nanoscale"
 collection: publications
-category: papers
+category: manuscripts
 permalink: /publication/2024-06-07-mogas2024driving
 date: 2024-06-07
 venue: 'Interface Focus'

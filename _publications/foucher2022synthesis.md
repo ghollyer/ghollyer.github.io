@@ -1,7 +1,7 @@
 ---
 title: "Synthesis and characterization of core-shell Cu-Ru, Cu-Rh, and Cu-Ir nanoparticles"
 collection: publications
-category: papers
+category: manuscripts
 permalink: /publication/2022-05-04-foucher2022synthesis
 date: 2022-05-04
 venue: 'Journal of the American Chemical Society'
