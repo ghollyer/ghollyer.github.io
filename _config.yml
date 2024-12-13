@@ -12,7 +12,7 @@ title                    : "George Hollyer / Personal Site"
 title_separator          : "-"
 name                     : &name "George Hollyer"
 description              : &description "PhD student at the University of Pennsylvania"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ghollyer.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghollyer/ghollyer.github.io"
 
