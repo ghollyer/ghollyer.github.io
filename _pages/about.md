@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I am a 3rd year PhD student advised by Eric Stach at Penn. I develop new techniques for characterizing energy materials in the TEM including ultra-high pressure gas holders, correlative spectroscopy and AI agents for operating microscopes. You can find my CV here.
+Hello, I am a 3rd year PhD student advised by Eric Stach at Penn. I develop new techniques for characterizing energy materials in the TEM. My projects include ultra-high pressure gas TEM holders, correlative spectroscopy of quantum dots and AI agents for operating microscopes. You can find my CV here.
