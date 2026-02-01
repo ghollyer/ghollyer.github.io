@@ -224,7 +224,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholars
+  - jekyll-scholars
   - jekyll-sitemap
   - jekyll-socials
   - jekyll-tabs
