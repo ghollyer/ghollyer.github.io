@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>LRSM 303</p>
     <p>3231 Walnut St.</p>
     <p>Philadelphia, PA 19104</p>
 
