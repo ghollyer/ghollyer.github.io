@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ghollyer.github.io/sitemap.xml
+Sitemap: https://georgehollyer.com/sitemap.xml
